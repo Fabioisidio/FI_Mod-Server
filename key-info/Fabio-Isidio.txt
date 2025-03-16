@@ -1,0 +1,10 @@
+Authority:  Fabio-Isidio
+Creation:   28/02/2025 21:51:36 (by DESKTOP-URLFK23\Fabaobr1)
+
+== PRIVATE KEY ==
+File: C:\Users\Fabaobr1\Documents\Fabio-Isidio.biprivatekey
+MD5: 677c850b02915d450596fd4cb1767fb0
+== PUBLIC KEY ==
+File: C:\Users\Fabaobr1\Documents\Fabio-Isidio.bikey
+MD5: ba8668d74dd8085d70088e7095fc90e8
+
