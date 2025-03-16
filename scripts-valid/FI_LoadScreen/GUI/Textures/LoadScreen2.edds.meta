@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F9D8FE5B9BF16B34}LoadScreen2.edds"
+ Author "desktop-urlfk23"
+ ChangeDate -1769082261
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "LoadScreen2.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

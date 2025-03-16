@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{07DF37FAB7FA02F0}Watermark.edds"
+ Author "desktop-urlfk23"
+ ChangeDate 1044394604
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Watermark.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

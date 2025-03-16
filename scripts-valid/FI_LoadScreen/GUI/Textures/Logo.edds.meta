@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2FD632A7763B1A20}Logo.edds"
+ Author "desktop-urlfk23"
+ ChangeDate 809513580
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "Logo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
